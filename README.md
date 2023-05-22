@@ -1,37 +1,35 @@
-<div align="center">
-	<p>
-		<a target="_blank" href="https://github.com/Fastxyz/CRRPC" title="CRRPC">
-			<img src="https://i.imgur.com/NAHF4xW.png" width="256" alt="CRRPC" draggable="false">
-		</a>
-	</p>
-</div>
+<p align="center">
+	<a target="_blank" href="https://github.com/Fastxyz/CRRPC" title="CRRPC">
+		<img src="https://i.imgur.com/NAHF4xW.png" width="256" alt="CRRPC" draggable="false">
+	</a>
+</p>
 
-<hr>
+---
 
 ## **📙 About**
 
 **CRRPC** is a custom Discord Rich Presence that shows on your profile your Clash Royale statistics.
 
-<hr>
+---
 
 ## **🖼️ Preview:**
 
-<img src="https://i.imgur.com/AJKxgoD.png" alt="Discord RPC" draggable="false">
+![Discord RPC](https://i.imgur.com/yxI9LrH.png)
 
-<hr>
+---
 
 ## **⚒️ Installation**
 
 1. Download [Node.js](https://nodejs.org/en/download).
 2. Download [CRRPC](https://github.com/Fastxyz/CRRPC/archive/refs/heads/main.zip).
 
-<hr>
+---
 
 ## **🚀 How to use**
 
 1. Open **Clash Royale** and follow the steps to get your Tag:
 
-  <img src="https://i.imgur.com/cNAM0nV.gif" alt="Clash Royale Player Tag" draggable="false">
+   ![Clash Royale Player Tag](https://i.imgur.com/7gTHyY1.gif)
 
 2. Go to the `config.js` file and replace **YOUR PLAYER TAG** with your Clash Royale player tag.
 3. Go to the [Clash Royale API Dashboard](https://developer.clashroyale.com) and create an account or log in to your account.
@@ -40,29 +38,31 @@
 6. Open the CMD/Terminal and go to the place where you saved the files with the `cd` command.
 7. Install all the required dependencies:
 
-```cmd
-npm install
-```
+   ```cmd
+   npm install
+   ```
 
 8. Run the RPC:
 
-```cmd
-node .
-```
+   ```cmd
+   node .
+   ```
 
-<hr>
+---
 
 ## 🐛 **Bugs**
 
-If you find any bugs, report them on the [issues section](https://github.com/Fastxyz/CRRPC/issues).</br>If you find any bugs and know how to solve them or if you want to add something and you know how to add it, create a pull request on the [pull request section](https://github.com/Fastxyz/CRRPC/pulls).
+If you find any bugs, report them on the [issues section](https://github.com/Fastxyz/CRRPC/issues).
 
-<hr>
+If you find any bugs and know how to solve them or if you want to add something and you know how to add it, create a pull request on the [pull request section](https://github.com/Fastxyz/CRRPC/pulls).
+
+---
 
 ## 💁 **Suggestions/Questions**
 
 If you have any questions or want to give some suggestions, send them on the [issues section](https://github.com/Fastxyz/CRRPC/issues).
 
-<hr>
+---
 
 ## 📌 **Disclaimer**
 
