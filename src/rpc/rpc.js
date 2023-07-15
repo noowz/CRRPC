@@ -1,3 +1,4 @@
+const package = require('../../package.json');
 const repository = require('../../package.json').repository.url;
 const name = require('../../package.json').name;
 const version = require('../../package.json').version;
